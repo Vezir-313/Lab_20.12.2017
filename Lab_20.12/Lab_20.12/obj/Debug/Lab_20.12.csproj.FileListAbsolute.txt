@@ -1,0 +1,6 @@
+c:\users\vezir\onedrive\documents\visual studio 2015\Projects\Lab_20.12\Lab_20.12\bin\Debug\Lab_20.12.exe.config
+C:\Users\vezir\OneDrive\Documents\Visual Studio 2015\Projects\Lab_20.12\Lab_20.12\bin\Debug\Lab_20.12.exe
+C:\Users\vezir\OneDrive\Documents\Visual Studio 2015\Projects\Lab_20.12\Lab_20.12\bin\Debug\Lab_20.12.pdb
+C:\Users\vezir\OneDrive\Documents\Visual Studio 2015\Projects\Lab_20.12\Lab_20.12\obj\Debug\Lab_20.12.csprojResolveAssemblyReference.cache
+C:\Users\vezir\OneDrive\Documents\Visual Studio 2015\Projects\Lab_20.12\Lab_20.12\obj\Debug\Lab_20.12.exe
+C:\Users\vezir\OneDrive\Documents\Visual Studio 2015\Projects\Lab_20.12\Lab_20.12\obj\Debug\Lab_20.12.pdb
